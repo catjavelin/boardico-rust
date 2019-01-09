@@ -1,0 +1,7 @@
+[package]
+name = "boardico-rust"
+version = "0.1.0"
+authors = ["Keith Downie <keith.downie.e@gmail.com>"]
+edition = "2018"
+
+[dependencies]
